@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="hint">Enter search term</string>
+    <string name="search_string">Refresh</string>
+</resources>
